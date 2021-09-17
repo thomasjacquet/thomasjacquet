@@ -1,4 +1,5 @@
-![Github banner](https://user-images.githubusercontent.com/80694192/133835964-b415f57d-278b-440b-aa7f-304bbd8e5720.png)
+
+![Github banner (2)](https://user-images.githubusercontent.com/80694192/133839220-6d7fd4a3-daf2-4292-8c60-c5c0a76d21bf.png)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
