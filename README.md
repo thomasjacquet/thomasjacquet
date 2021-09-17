@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Ensemble-logo2](https://user-images.githubusercontent.com/80694192/133774326-e3628a0f-2540-48a3-8dbf-1efbf0ca1c83.png)
 
 <!--
 **thomasjacquet/thomasjacquet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
