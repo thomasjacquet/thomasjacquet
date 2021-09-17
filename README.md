@@ -1,4 +1,3 @@
-### Thomas Jacquet - Data Science and Analysis
 ![Github banner](https://user-images.githubusercontent.com/80694192/133835964-b415f57d-278b-440b-aa7f-304bbd8e5720.png)
 
 
