@@ -1,5 +1,6 @@
-### Hi there 👋
-![Portal Github](https://user-images.githubusercontent.com/80694192/133835643-c467d33c-9a6c-44d7-9e10-5cd948fabfaf.png)
+### Thomas Jacquet - Data Science and Analysis
+![Github banner](https://user-images.githubusercontent.com/80694192/133835964-b415f57d-278b-440b-aa7f-304bbd8e5720.png)
+
 
 
 <!--
